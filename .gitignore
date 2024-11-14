@@ -1,3 +1,7 @@
-__pycache__/
-data/
-chromedriver
+data/raw/
+data/processed/
+
+# Ambientes virtuais
+env/
+venv/
+*.pyc
